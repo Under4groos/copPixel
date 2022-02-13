@@ -1,0 +1,6 @@
+C:\Users\UnderKo\source\repos\copPixel\copPixel\bin\Debug\copPixel.dll
+C:\Users\UnderKo\source\repos\copPixel\copPixel\bin\Debug\copPixel.pdb
+C:\Users\UnderKo\source\repos\copPixel\copPixel\obj\Debug\copPixel.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\copPixel\copPixel\obj\Debug\copPixel.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\copPixel\copPixel\obj\Debug\copPixel.dll
+C:\Users\UnderKo\source\repos\copPixel\copPixel\obj\Debug\copPixel.pdb

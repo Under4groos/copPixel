@@ -1,0 +1,11 @@
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\bin\Debug\copPixel.dll
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\bin\Debug\copPixel.pdb
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\copPixel\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
